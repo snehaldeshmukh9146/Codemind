@@ -1,3 +1,1 @@
-This is an example file.
-Dev3 has also made changes to this file.
-
+Dev3 created this file.
